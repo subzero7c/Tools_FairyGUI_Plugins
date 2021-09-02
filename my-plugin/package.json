@@ -1,0 +1,11 @@
+{
+  "name": "CheckComponentDependency",
+  "displayName": "检测组件依赖数量",
+  "description": "",
+  "version": "1.0",
+  "author": {
+    "name": "站长"
+  },
+  "icon": "",
+  "main": "main.lua"
+}
